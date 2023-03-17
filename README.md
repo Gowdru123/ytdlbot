@@ -12,6 +12,17 @@ Download videos from YouTube and other platforms through a Telegram Bot
 -----
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
+### Deploy to Heroku
+
+<details><summary>Deploy To Heroku</summary>
+<p>
+<br>
+<a href="https://heroku.com/deploy?template=https://github.com/jnanesh1234/ytdlbot">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
+</p>
+</details>
+
 Can't deploy? Fork to your personal account and deploy it there!
 
 **Starting November 28, 2022, free Heroku Dynos, free Heroku Postgres, and free Heroku Data for Redis® plans will no
