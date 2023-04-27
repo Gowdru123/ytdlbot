@@ -17,7 +17,7 @@ Download videos from YouTube and other platforms through a Telegram Bot
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/jnanesh1234/ytdlbot">
+<a href="https://heroku.com/deploy?template=https://github.com/Gowdru123/ytdlbot">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
